@@ -25,9 +25,12 @@ Country.
 
 # Data Preparation
 Removed missing and invalid records
+
 Filtered out negative values
+
 Created a new column:
 Revenue = Quantity × Unit Price
+
 Excluded United Kingdom for focused analysis
 
 # Dashboard Features
