@@ -5,23 +5,23 @@
 This project focuses on analyzing retail sales data and building an interactive dashboard to generate meaningful business insights. The goal is to help decision-makers understand revenue trends, customer behavior, and regional performance.
 
 # Objectives
-Analyze monthly revenue trends for the year 2011
-Identify top-performing countries by revenue and quantity
-Discover high-value customers contributing to sales
-Visualize global demand using map-based insights
+Analyze monthly revenue trends for the year 2011.
+Identify top-performing countries by revenue and quantity.
+Discover high-value customers contributing to sales. 
+Visualize global demand using map-based insights.
 
 # Tools & Technologies
-Power BI
-Data Cleaning & Transformation
-Data Visualization
+Power BI,
+Data Cleaning & Transformation,
+Data Visualization.
 
 # Dataset Details
 Sales transaction data including:
-Invoice Date
-Quantity
-Unit Price
-Customer ID
-Country
+Invoice Date,
+Quantity,
+Unit Price,
+Customer ID,
+Country.
 
 # Data Preparation
 Removed missing and invalid records
