@@ -47,15 +47,15 @@ Highlights key contributors
 Map visualization showing country-wise sales distribution
 
 # Key Insights
-Sales peak during October–November (festive season)
-Few countries contribute majority of revenue
-Top customers drive significant sales
+Sales peak during October–November (festive season),
+Few countries contribute majority of revenue,
+Top customers drive significant sales,
 Strong demand observed in European regions
 
 # Conclusion
 
 This dashboard helps in making data-driven decisions related to:
 
-Market expansion
-Customer targeting
-Sales forecasting
+Market expansion,
+Customer targeting,
+Sales forecasting.
