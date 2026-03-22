@@ -11,8 +11,10 @@ Discover high-value customers contributing to sales.
 Visualize global demand using map-based insights.
 
 # Tools & Technologies
-Power BI,
-Data Cleaning & Transformation,
+Power BI
+
+Data Cleaning & Transformation
+
 Data Visualization.
 
 # Dataset Details
@@ -21,7 +23,7 @@ Invoice Date,
 Quantity,
 Unit Price,
 Customer ID,
-Country.
+Country
 
 # Data Preparation
 Removed missing and invalid records
@@ -59,6 +61,8 @@ Strong demand observed in European regions
 
 This dashboard helps in making data-driven decisions related to:
 
-Market expansion,
-Customer targeting,
+Market expansion
+
+Customer targeting
+
 Sales forecasting.
